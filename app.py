@@ -148,7 +148,7 @@ def processar_triagem():
         # ----------------------------------------------------------------------
 
         payload = {
-            "model": "google/gemma-4-31b-it:free",
+            "model": "inclusionai/ling-3.0-flash:free",
             "messages": [
                 {
                     "role": "system",
